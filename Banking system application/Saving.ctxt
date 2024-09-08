@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Saving
+comment0.text=\r\n\ Saving\ account\ class.\r\n\r\n
+comment1.params=
+comment1.target=Saving()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Saving\r\n
+comment2.params=user
+comment2.target=Saving(java.lang.String)
+comment3.params=m
+comment3.target=void\ withdraw(float)
+comment3.text=\r\n\ Withdraw\ amount\ of\ money\r\n\r\n\ @param\ \ m\ -\ the\ amount\ to\ withdraw\r\n
+numComments=4

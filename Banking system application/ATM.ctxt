@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=user
+comment1.target=ATM(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ATM\r\n
+comment2.params=
+comment2.target=void\ createBankInfor()
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\r\n\ Create\ the\ frame\ \ \ \ \ \r\n
+comment4.params=frame
+comment4.target=void\ makeMenuBar(javax.swing.JFrame)
+comment5.params=accType
+comment5.target=void\ listAccounts(java.lang.String)
+comment6.params=
+comment6.target=void\ listAccounts()
+comment7.params=acc
+comment7.target=void\ drawAccount(Account)
+comment7.text=\r\n\ \ each\ account\ on\ the\ panel\r\n
+comment8.params=
+comment8.target=void\ about()
+numComments=9
